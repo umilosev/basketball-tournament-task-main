@@ -403,36 +403,6 @@
     {
       "Date": "2024-08-27",
       "Opponent": "FRA",
-      "Result": "71.79195856883683-66.7404704255546"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "JPN",
-      "Result": "76.72652360274608-43.93766291034069"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "BRA",
-      "Result": "64.83356394926588-74.40306300846905"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "FRA",
-      "Result": "77.91784199836485-70.49205716598613"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "AUS",
-      "Result": "68.44515560056331-28.934089946822414"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "USA",
-      "Result": "75.47391386117576-40.50042109477218"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "FRA",
       "Result": "85-48"
     },
     {
@@ -764,6 +734,406 @@
       "Date": "2024-08-27",
       "Opponent": "BRA",
       "Result": "66-62"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "90-74"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "102-78"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "89-72"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "124-62"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "85-53"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "97-64"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "83-87"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "59-50"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "44-58"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "62-67"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "111-52"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "101-48"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "109-22"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "42-65"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "102-85"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "99-50"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "136-42"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "114-42"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "123-66"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "68-99"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "84-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "97-58"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "68-51"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "71-63"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "108-89"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "63-81"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "82-101"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "102-82"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "122-56"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "65-31"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "47-58"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "72-110"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "105-39"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "90-63"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "95-77"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "67-61"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "72-71"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "88-42"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "78-63"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "73-71"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "98-66"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "61-87"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "108-64"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "66-83"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "114-55"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "101-81"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "102-54"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "75-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "104-65"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "91-77"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "86-43"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "92-33"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "101-88"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "63-115"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "91-46"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "123-57"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "128-60"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "99-40"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "61-79"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "78-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "63-64"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "91-45"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "119-60"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "93-46"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "42-107"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "41-96"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "114-68"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "117-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "78-51"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "93-54"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "99-65"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "67-86"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "129-56"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "118-60"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "137-57"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "43-96"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "96-66"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "53-55"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "71-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "64-109"
     }
   ],
   "FRA": [
@@ -1165,26 +1535,6 @@
     {
       "Date": "2024-08-27",
       "Opponent": "GER",
-      "Result": "66.7404704255546-71.79195856883683"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "BRA",
-      "Result": "102.46675008460251-45.17807688849622"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "JPN",
-      "Result": "91.21436955205803-63.28550596690576"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "GER",
-      "Result": "70.49205716598613-77.91784199836485"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "GER",
       "Result": "48-85"
     },
     {
@@ -1531,6 +1881,361 @@
       "Date": "2024-08-27",
       "Opponent": "AUS",
       "Result": "59-109"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "74-90"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "80-70"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "102-30"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "101-47"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "81-67"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "64-97"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "87-83"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "53-82"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "91-31"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "67-62"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "58-77"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "27-82"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "52-111"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "103-46"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "48-88"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "64-109"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "85-102"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "56-64"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "88-73"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "125-34"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "41-88"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "62-86"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "59-84"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "64-98"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "64-60"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "63-71"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "101-82"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "116-48"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "107-53"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "104-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "88-46"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "75-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "39-105"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "80-92"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "74-54"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "63-78"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "96-70"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "96-89"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "77-53"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "85-71"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "114-76"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "64-108"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "103-26"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "82-29"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "96-73"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "63-36"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "59-75"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "65-104"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "44-85"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "128-52"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "95-112"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "46-91"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "78-95"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "135-72"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "64-63"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "75-47"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "65-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "46-93"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "68-114"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "72-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "122-41"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "63-66"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "56-129"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "87-35"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "42-77"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "66-96"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "67-55"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "120-69"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "109-64"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "26-70"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "54-83"
     }
   ],
   "JPN": [
@@ -1892,21 +2597,6 @@
     {
       "Date": "2024-08-27",
       "Opponent": "BRA",
-      "Result": "42.757249921411415-127.01289867184181"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "GER",
-      "Result": "43.93766291034069-76.72652360274608"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "FRA",
-      "Result": "63.28550596690576-91.21436955205803"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "BRA",
       "Result": "66-123"
     },
     {
@@ -2228,6 +2918,246 @@
       "Date": "2024-08-27",
       "Opponent": "ESP",
       "Result": "75-116"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "34-113"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "78-102"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "30-102"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "19-94"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "50-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "31-91"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "42-107"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "48-101"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "88-48"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "67-117"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "50-99"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "73-88"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "28-104"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "58-97"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "60-64"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "44-96"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "82-102"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "53-107"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "78-74"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "63-90"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "54-74"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "71-102"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "41-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "71-73"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "89-96"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "49-89"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "83-66"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "29-82"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "45-111"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "77-91"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "52-128"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "73-76"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "57-123"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "72-135"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "75-67"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "45-91"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "80-65"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "89-120"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "61-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "59-117"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "41-122"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "90-82"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "60-118"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "77-42"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "51-109"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "35-100"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "55-53"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "69-120"
     }
   ],
   "USA": [
@@ -2634,36 +3564,6 @@
     {
       "Date": "2024-08-27",
       "Opponent": "SRB",
-      "Result": "89.33092913531917-77.94644731662474"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "PRI",
-      "Result": "94.30875200450204-50.65375621093464"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "SSD",
-      "Result": "80.6736047187881-57.169671763114465"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "SSD",
-      "Result": "71.06938205286713-71.04462311781214"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "BRA",
-      "Result": "109.93181838694669-41.46904386114787"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "GER",
-      "Result": "40.50042109477218-75.47391386117576"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "SRB",
       "Result": "72-82"
     },
     {
@@ -3025,6 +3925,426 @@
       "Date": "2024-08-27",
       "Opponent": "SRB",
       "Result": "75-98"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "75-103"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "105-54"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "99-64"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "65-82"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "77-57"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "83-53"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "130-62"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "85-91"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "113-75"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "78-58"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "104-41"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "109-64"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "114-50"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "80-69"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "77-88"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "105-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "110-45"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "71-61"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "66-123"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "86-62"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "52-74"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "128-42"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "82-67"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "96-66"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "80-74"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "81-63"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "79-63"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "79-73"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "69-44"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "94-28"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "46-88"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "110-72"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "109-90"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "102-88"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "131-38"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "102-71"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "59-78"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "107-35"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "108-44"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "143-92"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "134-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "101-53"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "82-52"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "76-114"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "74-95"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "108-42"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "123-56"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "122-58"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "54-102"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "89-48"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "104-60"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "72-51"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "88-71"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "112-95"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "86-65"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "115-63"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "76-64"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "100-48"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "76-77"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "96-50"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "79-61"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "75-44"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "86-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "80-75"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "115-58"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "47-103"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "123-66"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "113-39"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "131-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "99-52"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "51-93"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "89-45"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "82-37"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "48-77"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "63-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "96-43"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "119-86"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "87-44"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "59-107"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "91-77"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "95-52"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "79-61"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "124-89"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "77-44"
     }
   ],
   "CAN": [
@@ -3436,31 +4756,6 @@
     {
       "Date": "2024-08-27",
       "Opponent": "AUS",
-      "Result": "126-62"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "AUS",
-      "Result": "107.2130341210585-37.321839957795454"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "ESP",
-      "Result": "119.58984198742371-71.10281240981274"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "GRE",
-      "Result": "120.82214765079313-75.60364600475373"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "AUS",
-      "Result": "47.20886024289216-69.36311009814617"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "AUS",
       "Result": "77-106"
     },
     {
@@ -3802,6 +5097,331 @@
       "Date": "2024-08-27",
       "Opponent": "GRE",
       "Result": "63-57"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "37-103"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "97-108"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "136-48"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "78-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "67-81"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "78-85"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "106-22"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "105-64"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "115-85"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "59-96"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "82-97"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "93-96"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "131-53"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "96-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "50-114"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "55-69"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "36-76"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "56-100"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "109-50"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "68-65"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "42-97"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "117-71"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "55-68"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "79-62"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "42-107"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "94-42"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "31-65"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "128-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "45-73"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "112-75"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "113-67"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "71-72"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "35-107"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "55-79"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "83-45"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "86-34"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "53-77"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "41-93"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "34-123"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "101-49"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "120-62"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "89-71"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "60-97"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "33-92"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "78-63"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "72-50"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "62-94"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "40-99"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "59-79"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "49-93"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "60-89"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "86-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "49-96"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "69-56"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "81-117"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "84-67"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "119-85"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "110-66"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "56-81"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "121-63"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "65-99"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "108-50"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "77-35"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "70-26"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "44-77"
     }
   ],
   "AUS": [
@@ -4208,36 +5828,6 @@
     {
       "Date": "2024-08-27",
       "Opponent": "CAN",
-      "Result": "37.321839957795454-107.2130341210585"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "GRE",
-      "Result": "100.87531398883664-24.467895434494505"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "ESP",
-      "Result": "90.82043145259408-32.52303759924261"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "CAN",
-      "Result": "69.36311009814617-47.20886024289216"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "GER",
-      "Result": "28.934089946822414-68.44515560056331"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "BRA",
-      "Result": "110.08094391401427-64.13292737138022"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "CAN",
       "Result": "106-77"
     },
     {
@@ -4619,6 +6209,351 @@
       "Date": "2024-08-27",
       "Opponent": "BRA",
       "Result": "55-100"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "103-37"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "99-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "49-83"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "47-101"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "22-106"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "117-73"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "83-61"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "96-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "87-33"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "53-72"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "97-82"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "80-89"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "88-87"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "65-42"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "59-81"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "69-55"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "76-36"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "101-77"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "127-69"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "34-125"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "65-68"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "112-88"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "67-69"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "59-127"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "62-79"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "86-66"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "59-96"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "53-35"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "58-47"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "59-75"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "59-128"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "120-32"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "105-64"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "61-67"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "79-55"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "55-32"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "102-54"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "72-103"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "93-41"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "101-71"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "105-72"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "81-101"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "62-120"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "97-78"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "69-77"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "63-78"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "91-78"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "57-48"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "108-50"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "99-66"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "44-75"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "79-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "60-72"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "56-81"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "103-47"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "107-42"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "62-57"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "80-86"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "86-88"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "42-79"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "67-84"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "109-53"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "72-67"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "109-51"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "86-119"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "70-75"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "63-121"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "94-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "41-62"
     }
   ],
   "SRB": [
@@ -5035,26 +6970,6 @@
     {
       "Date": "2024-08-27",
       "Opponent": "USA",
-      "Result": "77.94644731662474-89.33092913531917"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "SSD",
-      "Result": "58.88841215638486-27.29374927766863"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "PRI",
-      "Result": "103.96021575249159-31.901754686955783"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "BRA",
-      "Result": "58.2900209266169-115.09191445024379"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "USA",
       "Result": "82-72"
     },
     {
@@ -5426,6 +7341,396 @@
       "Date": "2024-08-27",
       "Opponent": "ESP",
       "Result": "55-78"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "103-75"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "88-51"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "131-68"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "82-65"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "53-85"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "85-78"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "57-77"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "69-89"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "94-44"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "83-50"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "33-87"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "82-27"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "75-113"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "130-56"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "70-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "59-96"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "88-77"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "78-45"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "60-83"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "96-60"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "88-41"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "99-68"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "74-52"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "100-97"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "57-47"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "127-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "74-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "77-61"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "63-79"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "104-39"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "84-65"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "80-104"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "90-109"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "127-67"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "76-64"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "90-85"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "78-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "42-88"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "44-108"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "110-60"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "136-61"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "53-101"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "95-74"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "59-30"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "92-29"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "67-76"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "60-104"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "92-64"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "96-82"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "55-78"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "64-76"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "78-36"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "120-37"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "84-71"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "66-99"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "80-78"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "80-86"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "120-70"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "126-43"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "120-89"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "94-73"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "57-62"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "66-123"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "124-36"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "91-68"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "117-81"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "65-99"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "45-89"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "37-82"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "114-45"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "108-82"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "92-71"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "52-101"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "75-70"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "107-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "100-94"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "60-85"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "51-104"
     }
   ],
   "PRI": [
@@ -5811,26 +8116,6 @@
     },
     {
       "Date": "2024-08-27",
-      "Opponent": "SRB",
-      "Result": "56-106"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "SSD",
-      "Result": "75.72612698862527-86.84206701213549"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "USA",
-      "Result": "50.65375621093464-94.30875200450204"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "SRB",
-      "Result": "31.901754686955783-103.96021575249159"
-    },
-    {
-      "Date": "2024-08-27",
       "Opponent": "SSD",
       "Result": "74-44"
     },
@@ -6163,6 +8448,291 @@
       "Date": "2024-08-27",
       "Opponent": "SRB",
       "Result": "63-124"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "101-89"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "54-105"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "68-131"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "122-74"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "53-83"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "44-94"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "91-85"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "77-58"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "72-53"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "72-61"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "58-78"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "59-70"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "46-107"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "84-78"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "80-105"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "83-60"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "60-96"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "66-32"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "42-128"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "47-57"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "66-63"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "73-79"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "65-84"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "28-94"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "61-71"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "88-102"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "64-76"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "110-38"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "92-143"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "61-136"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "84-90"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "42-108"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "29-92"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "92-65"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "51-72"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "82-96"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "58-60"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "80-96"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "48-100"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "37-120"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "91-57"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "75-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "43-126"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "71-39"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "39-113"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "68-91"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "54-93"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "97-86"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "77-48"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "82-108"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "71-92"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SSD",
+      "Result": "86-52"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "77-91"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "85-60"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "104-51"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "89-124"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "83-54"
     }
   ],
   "GRE": [
@@ -6538,26 +9108,6 @@
     },
     {
       "Date": "2024-08-27",
-      "Opponent": "CAN",
-      "Result": "43-60"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "ESP",
-      "Result": "68.88816456384687-106.19169191534237"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "AUS",
-      "Result": "24.467895434494505-100.87531398883664"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "CAN",
-      "Result": "75.60364600475373-120.82214765079313"
-    },
-    {
-      "Date": "2024-08-27",
       "Opponent": "ESP",
       "Result": "55-109"
     },
@@ -6875,6 +9425,271 @@
       "Date": "2024-08-27",
       "Opponent": "CAN",
       "Result": "57-63"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "51-84"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "80-99"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "48-136"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "48-72"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "73-117"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "85-115"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "29-89"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "89-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "53-131"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "68-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "77-101"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "50-109"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "48-100"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "88-112"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "71-117"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "79-82"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "66-86"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "42-94"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "31-86"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "32-120"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "75-112"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "105-41"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "32-55"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "34-86"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "87-61"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "52-82"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "26-98"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "58-104"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "71-101"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "49-101"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "125-46"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "78-97"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "97-60"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "60-58"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "88-101"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "BRA",
+      "Result": "100-33"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "67-71"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "78-91"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "94-62"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "71-84"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "74-85"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "72-60"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "89-60"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "42-115"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "67-101"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "88-86"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "56-69"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "35-85"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "53-109"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "66-110"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "ESP",
+      "Result": "32-99"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "59-94"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "50-108"
     }
   ],
   "BRA": [
@@ -7281,36 +10096,6 @@
     {
       "Date": "2024-08-27",
       "Opponent": "JPN",
-      "Result": "127.01289867184181-42.757249921411415"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "FRA",
-      "Result": "45.17807688849622-102.46675008460251"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "GER",
-      "Result": "74.40306300846905-64.83356394926588"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "SRB",
-      "Result": "115.09191445024379-58.2900209266169"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "USA",
-      "Result": "41.46904386114787-109.93181838694669"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "AUS",
-      "Result": "64.13292737138022-110.08094391401427"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "JPN",
       "Result": "123-66"
     },
     {
@@ -7652,6 +10437,316 @@
       "Date": "2024-08-27",
       "Opponent": "AUS",
       "Result": "100-55"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "113-34"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "70-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "72-89"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "62-124"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "94-19"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "82-53"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "58-44"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "50-83"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "107-42"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "46-103"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "22-109"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "117-67"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "64-56"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "42-136"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "61-71"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "104-28"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "98-64"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "51-68"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "68-55"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "89-108"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "61-77"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "96-44"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "48-116"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "56-122"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "74-78"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "92-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "77-95"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "67-113"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "80-41"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "70-96"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "66-98"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "103-72"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "71-85"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "98-26"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "89-49"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "26-103"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "55-114"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "58-122"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "111-45"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "85-44"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "43-86"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "78-55"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "65-86"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "33-100"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "76-73"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "95-78"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "60-128"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "50-96"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "67-75"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "47-75"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "60-119"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "80-61"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "80-72"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "51-78"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "52-99"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "82-90"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "35-87"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "57-137"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "JPN",
+      "Result": "100-35"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "55-67"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "59-71"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "35-77"
     }
   ],
   "SSD": [
@@ -8018,26 +11113,6 @@
     {
       "Date": "2024-08-27",
       "Opponent": "PRI",
-      "Result": "86.84206701213549-75.72612698862527"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "SRB",
-      "Result": "27.29374927766863-58.88841215638486"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "USA",
-      "Result": "57.169671763114465-80.6736047187881"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "USA",
-      "Result": "71.04462311781214-71.06938205286713"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "PRI",
       "Result": "44-74"
     },
     {
@@ -8349,6 +11424,251 @@
       "Date": "2024-08-27",
       "Opponent": "BRA",
       "Result": "51-89"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "89-101"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "51-88"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "64-99"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "74-122"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "89-69"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "62-130"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "61-72"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "56-130"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "41-104"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "78-84"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "45-78"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "45-110"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "32-66"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "97-100"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "67-82"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "63-66"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "39-104"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "44-69"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "71-61"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "67-127"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "38-131"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "38-110"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "60-110"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "59-134"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "90-84"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "30-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "56-123"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "76-67"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "36-63"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "48-89"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "65-92"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "64-92"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "71-88"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "96-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "36-78"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "77-76"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "50-108"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "57-91"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "70-120"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "58-115"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "39-71"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "36-124"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "80-131"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "86-97"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "45-114"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "59-63"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "52-86"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "94-100"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "52-95"
     }
   ],
   "ESP": [
@@ -8754,31 +12074,6 @@
     },
     {
       "Date": "2024-08-27",
-      "Opponent": "CAN",
-      "Result": "121-59"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "SRB",
-      "Result": "53-89"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "GRE",
-      "Result": "106.19169191534237-68.88816456384687"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "CAN",
-      "Result": "71.10281240981274-119.58984198742371"
-    },
-    {
-      "Date": "2024-08-27",
-      "Opponent": "AUS",
-      "Result": "32.52303759924261-90.82043145259408"
-    },
-    {
-      "Date": "2024-08-27",
       "Opponent": "GRE",
       "Result": "109-55"
     },
@@ -9161,6 +12456,326 @@
       "Date": "2024-08-27",
       "Opponent": "SRB",
       "Result": "78-55"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "84-51"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "108-97"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "83-49"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "59-78"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "72-48"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "64-105"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "61-83"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "89-29"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "96-93"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "87-88"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "PRI",
+      "Result": "107-46"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "81-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "69-80"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "80-68"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "100-56"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "69-127"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "42-114"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "100-48"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "97-42"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "69-67"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "66-96"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "82-79"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "107-42"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "96-59"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "35-53"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "86-31"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "73-45"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "64-105"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "85-90"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "41-105"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "45-83"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "54-102"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "104-58"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "123-34"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "72-105"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "73-96"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "46-125"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "71-89"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "77-69"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "71-67"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "50-72"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "48-57"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "85-74"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "93-49"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "81-56"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "115-42"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "73-94"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "96-41"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "101-67"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "96-49"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "79-42"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "FRA",
+      "Result": "66-63"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "93-51"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GER",
+      "Result": "86-67"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "85-35"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "85-119"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "67-72"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "81-56"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "SRB",
+      "Result": "101-52"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "44-87"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "GRE",
+      "Result": "99-32"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "CAN",
+      "Result": "99-65"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "AUS",
+      "Result": "62-41"
+    },
+    {
+      "Date": "2024-08-27",
+      "Opponent": "USA",
+      "Result": "61-79"
     }
   ]
 }

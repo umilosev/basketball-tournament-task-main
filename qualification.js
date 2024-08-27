@@ -17,9 +17,9 @@ function getQualifiedTeams(results) {
 
     // Izaberi 8 najboljih timova (za pretpostavku da treba 8 timova za eliminacionu fazu)
     const qualifiedTeams = allTeams.slice(0, 8);
-
+    console.log(`\n Tim - pobede/porazi/bodovi/postignuti koševi/primljeni koševi/koš razlika \n`)
     qualifiedTeams.forEach((team, index) => {
-        console.log(`${index + 1}. ${team.Team} - points: ${team.points}, basket difference: ${team.basketDifference}, baskets scored: ${team.basketsScored}`);
+        console.log(`${index + 1}. ${team.Team} / ${team.victories} / ${team.defeats} / ${team.points} / ${team.basketDifference} / ${team.basketsScored} / ${team.receivedBaskets} `);
     });
     //vracamo timove i njihove rezultate iz grupa
     return qualifiedTeams;
