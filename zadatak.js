@@ -1,4 +1,3 @@
-const { displayDraw, displayGroupRanking } = require('./displaying');
 const simulateGroupStage = require('./group_stage');
 const generateQuarterFinalMatches = require('./quarter_final');
 const {simulateQuarterFinalBracket, simulateSemiFinalsAndFinal} = require('./elim_matches');
@@ -13,7 +12,7 @@ function simulateTournament() {
     const groups = loadFile('groups.json');
 
     if (groups && formData) {
-        console.log("Početak simulacije utakmica po grupama.\n");
+        console.log("Početak simulacije utakmica po grupama.");
 
         const { results, playedMatches } = simulateGroupStage(groups, formData);
 

@@ -1,4 +1,3 @@
-const { displayGroupRanking } = require("./displaying");
 const {simulateMatch, probabilityVictory, calculateFormAdjustment} = require(`./simulate`)
 
 // Funkcija za simulaciju grupne faze sa kolima
