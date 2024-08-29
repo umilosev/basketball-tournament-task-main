@@ -8,7 +8,7 @@ const loadFile = require('./load_file');
 
 // Function to simulate the entire tournament
 function simulateTournament() {
-    const formData = loadFile('exhibitions.json');
+    let formData = loadFile('exhibitions.json');
     const groups = loadFile('groups.json');
 
     if (groups && formData) {
@@ -22,7 +22,11 @@ function simulateTournament() {
 
         let {quarterFinalPairs, pots} = generateQuarterFinalMatches(qualifiedTeams, playedMatches); // playedMatches treba da sadrži rezultate grupne faze, dok su qualified teams, samo timovi odvojeni od grupa
 
+        formData = loadFile('exhibitions.json');
+
         let quarterFinalWinners = simulateQuarterFinalBracket(quarterFinalPairs, formData)
+
+        formData = loadFile('exhibitions.json');
 
         simulateSemiFinalsAndFinal(quarterFinalWinners,formData)
         
