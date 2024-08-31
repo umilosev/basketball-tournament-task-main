@@ -79,7 +79,7 @@ function simulateMatch(team1, team2, formData) {
 
 // Funkcija za izračunavanje verovatnoće pobede uzimajući u obzir formu
 function probabilityVictory(rankA, rankB, formAdjustment, k = 0.2) {
-    const deltaRank = rankA - rankB + formAdjustment;
+    const deltaRank = rankA - rankB - formAdjustment;
     return 1 / (1 + Math.exp(k * deltaRank));
 } 
 
